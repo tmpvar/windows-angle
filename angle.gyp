@@ -1,5 +1,4 @@
 {
-
   'targets' : [
     {
       'target_name' : 'libGLESv2',
@@ -48,8 +47,7 @@
         'deps/angle/src/libGLESv2/precompiled.cpp',
         'deps/angle/src/libGLESv2/queryconversions.cpp',
       ],
-    },
-    {
+    }, {
       'target_name' : 'libEGL',
       'type' : 'static_library',
       'dependencies' : [

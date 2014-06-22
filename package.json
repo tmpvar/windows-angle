@@ -23,7 +23,6 @@
   ],
   "author": "Elijah Insua <tmpvar@gmail.com>",
   "license": "BSD-2-Clause",
-  "gypfile": true,
   "bugs": {
     "url": "https://github.com/tmpvar/windows-angle/issues"
   }

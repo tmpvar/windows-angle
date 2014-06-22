@@ -8,12 +8,12 @@
         'deps/angle/build/common.gypi'
       ],
 
-
       'include_dirs' : [
         'deps/angle/include',
         'deps/angle/src',
         'src/shim',
       ],
+
       'defines' : [
         'ANGLE_COMPILE_OPTIMIZATION_LEVEL',
         'ANGLE_COMMIT_HASH="tmpvar"',

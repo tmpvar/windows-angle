@@ -1,0 +1,31 @@
+{
+  "name": "windows-angle",
+  "version": "0.1.0",
+  "description": "shim for gles2 on windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/windows-angle.git"
+  },
+  "keywords": [
+    "gles2",
+    "gles3",
+    "egl",
+    "windows",
+    "win32",
+    "win64",
+    "opengl",
+    "3d",
+    "rendering"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "BSD-2-Clause",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/tmpvar/windows-angle/issues"
+  }
+}
